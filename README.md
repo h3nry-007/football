@@ -1,4 +1,6 @@
-# football
+## football
 
-Football player buy projects for assignment
-C file Handling ကို အဓိကအသုံးပြုထားသည်။ 
+football player အရောင်း site ကဲ့သို့ program ဖြစ်ပါတယ်။ 
+
+#Language
+C only
