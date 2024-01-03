@@ -4,3 +4,6 @@ football player အရောင်း site ကဲ့သို့ program ဖြ�
 
 ## Language
 C only
+
+## Main Topic 
+C File Handling and using lib
